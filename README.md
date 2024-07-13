@@ -7,5 +7,5 @@
 
 - 🔭 I’m currently working on a web application with OWASP security implementations
 - 🌱 I’m currently learning DSA (Data Structures and Algorithms) and Web Development
-- ⚡ Fun fact: I can crack my knuckles just by clenching my fists
+- ⚡ Fun fact: I can constantly, non-stop, crack my knuckles just by clenching my fists
 
